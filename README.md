@@ -11,9 +11,10 @@
 ### Thanks for visiting.
 
 ### Good day
+![Screenshot (24)](https://user-images.githubusercontent.com/87578584/147069131-cd65f85b-3af5-4298-8dde-11ddd9dff723.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/87578584/147069137-77c5c150-bf64-4dab-acb8-aefbd375bb55.png)
 
-![alt text](https://github.com/kavyanshpandey/Sneha-cafe-FRONT-END/blob/master/images/pic1.png)
-![alt text](https://github.com/kavyanshpandey/Sneha-cafe-FRONT-END/blob/master/images/pic2.png)
+
 
 ### Thanks
 
